@@ -1,3 +1,149 @@
-body {
-  background: red;
-}
+<div class="w-[1920px] h-[981.31px] pl-40 pt-14 pb-[120px] bg-white flex-col justify-start items-start gap-20 inline-flex">
+  <div class="self-stretch pr-40 justify-between items-center gap-[404px] inline-flex">
+    <div class="text-zinc-900 text-[36px] font-medium">Testimonials Headline Here</div>
+    <div class="justify-start items-center gap-2 flex">
+      <div class="text-sky-900 text-[14px] font-bold">View all reviews</div>
+      <div class="w-6 h-6 relative"></div>
+    </div>
+  </div>
+  <div class="justify-start items-start gap-[92px] inline-flex">
+    <div class="px-16 py-[88px] bg-white shadow flex-col justify-start items-start gap-16 inline-flex">
+      <div class="self-stretch h-16 flex-col justify-start items-start gap-4 flex">
+        <div class="justify-start items-start gap-1 inline-flex">
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+        </div>
+        <div class="w-[344px] text-zinc-900 text-[20px] font-bold leading-loose">The perfect solution</div>
+      </div>
+      <div class="self-stretch text-stone-500 text-[16px] font-normal leading-7">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Auctor sag ittis, et, mat tis etet. Mauris enim  sd suscipit pretium feugiat turpis. Libero ultricies  as aliquet fames tortor pellentesque nibh cras ac. </div>
+      <div class="justify-start items-center gap-4 inline-flex">
+        <div class="text-zinc-900 text-[16px] font-semibold leading-7">Julie</div>
+      </div>
+    </div>
+    <div class="px-16 py-[88px] bg-white shadow flex-col justify-start items-start gap-16 inline-flex">
+      <div class="self-stretch h-16 flex-col justify-start items-start gap-4 flex">
+        <div class="justify-start items-start gap-1 inline-flex">
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+        </div>
+        <div class="w-[344px] text-zinc-900 text-[20px] font-bold leading-loose">The perfect solution</div>
+      </div>
+      <div class="self-stretch text-stone-500 text-[16px] font-normal leading-7">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Auctor sag ittis, et, mat tis etet. Mauris enim  sd suscipit pretium feugiat turpis. Libero ultricies  as aliquet fames tortor pellentesque nibh cras ac. </div>
+      <div class="justify-start items-center gap-4 inline-flex">
+        <div class="text-zinc-900 text-[16px] font-semibold leading-7">Julie</div>
+      </div>
+    </div>
+    <div class="px-16 py-[88px] bg-white shadow flex-col justify-start items-start gap-16 inline-flex">
+      <div class="self-stretch h-16 flex-col justify-start items-start gap-4 flex">
+        <div class="justify-start items-start gap-1 inline-flex">
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+        </div>
+        <div class="w-[344px] text-zinc-900 text-[20px] font-bold leading-loose">The perfect solution</div>
+      </div>
+      <div class="self-stretch text-stone-500 text-[16px] font-normal leading-7">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Auctor sag ittis, et, mat tis etet. Mauris enim  sd suscipit pretium feugiat turpis. Libero ultricies  as aliquet fames tortor pellentesque nibh cras ac. </div>
+      <div class="justify-start items-center gap-4 inline-flex">
+        <div class="text-zinc-900 text-[16px] font-semibold leading-7">Julie</div>
+      </div>
+    </div>
+    <div class="px-16 py-[88px] bg-white shadow flex-col justify-start items-start gap-16 inline-flex">
+      <div class="self-stretch h-16 flex-col justify-start items-start gap-4 flex">
+        <div class="justify-start items-start gap-1 inline-flex">
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+          <div class="w-4 h-4 relative">
+            <div class="w-4 h-4 left-0 top-0 absolute">
+            </div>
+          </div>
+        </div>
+        <div class="w-[344px] text-zinc-900 text-[20px] font-bold leading-loose">The perfect solution</div>
+      </div>
+      <div class="self-stretch text-stone-500 text-[16px] font-normal leading-7">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Auctor sag ittis, et, mat tis etet. Mauris enim  sd suscipit pretium feugiat turpis. Libero ultricies  as aliquet fames tortor pellentesque nibh cras ac. </div>
+      <div class="justify-start items-center gap-4 inline-flex">
+        <div class="text-zinc-900 text-[16px] font-semibold leading-7">Julie</div>
+      </div>
+    </div>
+  </div>
+  <div class="flex-col justify-start items-start gap-8 flex">
+    <div class="justify-start items-start gap-4 inline-flex">
+      <div class="w-6 h-6 relative"></div>
+      <div class="w-6 h-6 relative"></div>
+    </div>
+    <div class="h-[1.20px] flex-col justify-start items-start gap-4 flex">
+      <div class="w-[388px] h-[0px] relative">
+        <div class="w-[70px] h-[0px] left-[-0px] top-[1px] absolute border border-sky-900"></div>
+        <div class="w-[70px] h-[0px] left-[73.29px] top-[0.06px] absolute border border-cyan-600"></div>
+        <div class="w-[70px] h-[0px] left-[146.57px] top-[0.12px] absolute border border-cyan-600"></div>
+        <div class="w-[70px] h-[0px] left-[219.86px] top-[0.18px] absolute border border-cyan-600"></div>
+      </div>
+    </div>
+  </div>
+</div>
